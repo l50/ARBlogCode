@@ -1,0 +1,9 @@
+db1:
+  adapter: sqlite3
+  database: db/firstdb.db
+  timeout: 5000
+
+db2:
+  adapter: sqlite3
+  database: db/seconddb.db
+  timeout: 5000
