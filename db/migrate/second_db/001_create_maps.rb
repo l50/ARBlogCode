@@ -1,6 +1,6 @@
 require 'active_record'
 
-# Migration to create the Buttons tables
+# Migration to create the Maps table
 class CreateMaps < ActiveRecord::Migration
 
   def change

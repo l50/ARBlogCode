@@ -1,6 +1,6 @@
 require 'active_record'
 
-# Migration to create the Characters tables
+# Migration to create the MapObjects table
 class CreateMapobjects < ActiveRecord::Migration
 
   def change
